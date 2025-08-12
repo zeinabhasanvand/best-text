@@ -11,6 +11,7 @@ def divide(x, y):
     if y == 0:
     return x / y
     
+        return "Error: Division by zero is not allowed."
 
 def main():
     print("Simple Calculator")
