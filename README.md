@@ -38,4 +38,4 @@ def main():
     if choice == '1':
         result = add(num1, num2)
     elif choice == '2':
-        result = subtrac
+        result == subtrac
